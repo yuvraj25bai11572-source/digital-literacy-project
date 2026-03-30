@@ -1,4 +1,4 @@
-**1. Case Study: Cyberbullying**
+##1. Case Study: Cyberbullying
 
 Overview: Cyberbullying involves using digital platforms to harass, threaten, or humiliate an individual.
 
